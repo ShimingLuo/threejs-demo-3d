@@ -1,0 +1,338 @@
+solid AssimpScene
+ facet normal 0 0 0
+  outer loop
+  vertex 634249 85.8316 -5.63893e+06
+  vertex 634251 85.8316 -5.63893e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634250 85.8316 -5.63893e+06
+  vertex 634250 85.8316 -5.63893e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634249 95.5473 -5.63894e+06
+  vertex 634251 95.5473 -5.63894e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634250 95.5473 -5.63894e+06
+  vertex 634250 95.5473 -5.63894e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634259 89.6441 -5.63892e+06
+  vertex 634261 89.6441 -5.63892e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634260 89.6441 -5.63892e+06
+  vertex 634260 89.6441 -5.63892e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634259 94.7976 -5.63893e+06
+  vertex 634261 94.7976 -5.63893e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634260 94.7976 -5.63893e+06
+  vertex 634260 94.7976 -5.63893e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634259 96.314 -5.63894e+06
+  vertex 634261 96.314 -5.63894e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634260 96.314 -5.63894e+06
+  vertex 634260 96.314 -5.63894e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634259 94.1636 -5.63895e+06
+  vertex 634261 94.1636 -5.63895e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634260 94.1636 -5.63895e+06
+  vertex 634260 94.1636 -5.63895e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634269 93.202 -5.63892e+06
+  vertex 634271 93.202 -5.63892e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634270 93.202 -5.63892e+06
+  vertex 634270 93.202 -5.63892e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634269 95.4872 -5.63893e+06
+  vertex 634271 95.4872 -5.63893e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634270 95.4872 -5.63893e+06
+  vertex 634270 95.4872 -5.63893e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634269 97.3372 -5.63894e+06
+  vertex 634271 97.3372 -5.63894e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634270 97.3372 -5.63894e+06
+  vertex 634270 97.3372 -5.63894e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634269 96.2395 -5.63895e+06
+  vertex 634271 96.2395 -5.63895e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634270 96.2395 -5.63895e+06
+  vertex 634270 96.2395 -5.63895e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634279 94.4299 -5.63892e+06
+  vertex 634281 94.4299 -5.63892e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634280 94.4299 -5.63892e+06
+  vertex 634280 94.4299 -5.63892e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634279 97.9994 -5.63893e+06
+  vertex 634281 97.9994 -5.63893e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634280 97.9994 -5.63893e+06
+  vertex 634280 97.9994 -5.63893e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634279 98.3645 -5.63894e+06
+  vertex 634281 98.3645 -5.63894e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634280 98.3645 -5.63894e+06
+  vertex 634280 98.3645 -5.63894e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634279 95.5858 -5.63895e+06
+  vertex 634281 95.5858 -5.63895e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634280 95.5858 -5.63895e+06
+  vertex 634280 95.5858 -5.63895e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634289 94.2656 -5.63892e+06
+  vertex 634291 94.2656 -5.63892e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634290 94.2656 -5.63892e+06
+  vertex 634290 94.2656 -5.63892e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634289 98.228 -5.63893e+06
+  vertex 634291 98.228 -5.63893e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634290 98.228 -5.63893e+06
+  vertex 634290 98.228 -5.63893e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634289 95.0875 -5.63894e+06
+  vertex 634291 95.0875 -5.63894e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634290 95.0875 -5.63894e+06
+  vertex 634290 95.0875 -5.63894e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634289 91.3612 -5.63895e+06
+  vertex 634291 91.3612 -5.63895e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634290 91.3612 -5.63895e+06
+  vertex 634290 91.3612 -5.63895e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634299 93.9725 -5.63892e+06
+  vertex 634301 93.9725 -5.63892e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634300 93.9725 -5.63892e+06
+  vertex 634300 93.9725 -5.63892e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634299 94.3235 -5.63893e+06
+  vertex 634301 94.3235 -5.63893e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634300 94.3235 -5.63893e+06
+  vertex 634300 94.3235 -5.63893e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634299 92.8199 -5.63894e+06
+  vertex 634301 92.8199 -5.63894e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634300 92.8199 -5.63894e+06
+  vertex 634300 92.8199 -5.63894e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634309 93.49 -5.63892e+06
+  vertex 634311 93.49 -5.63892e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634310 93.49 -5.63892e+06
+  vertex 634310 93.49 -5.63892e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634309 94.8776 -5.63893e+06
+  vertex 634311 94.8776 -5.63893e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634310 94.8776 -5.63893e+06
+  vertex 634310 94.8776 -5.63893e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634319 92.6129 -5.63893e+06
+  vertex 634321 92.6129 -5.63893e+06
+  endloop
+ endfacet
+
+ facet normal 0 0 0
+  outer loop
+  vertex 634320 92.6129 -5.63893e+06
+  vertex 634320 92.6129 -5.63893e+06
+  endloop
+ endfacet
+
+endsolid AssimpScene
